@@ -1,0 +1,1 @@
+A Two-Factor Authentication (2FA) bypass vulnerability in "Simple 2FA Plugin for Moodle" by LMS Doctor allows remote attackers to overwrite the phone number used for confirmation via the profile.php file. Therefore, allowing them to bypass the phone verification mechanism.
