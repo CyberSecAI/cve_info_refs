@@ -1,0 +1,1 @@
+https://rhinosecuritylabs.com/research/remote-code-execution-bug-hunting-chapter-1/
